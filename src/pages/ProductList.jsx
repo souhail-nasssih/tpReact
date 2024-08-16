@@ -97,6 +97,7 @@ export default function ProductList() {
             placeholder="Search"
             aria-label="Search"
             id="search"
+            // onChange={handleSearch}
           />
           <button
             type="submit"
